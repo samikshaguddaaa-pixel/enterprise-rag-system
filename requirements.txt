@@ -3,3 +3,16 @@ langchain
 langchain-community
 chromadb
 langchain-huggingface
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+langchain-google-genai
+chromadb
+sentence-transformers
+transformers
+torch
+google-generativeai
+python-dotenv
+numpy
+pandas
