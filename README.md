@@ -103,6 +103,8 @@ Project Title: Enterprise Semantic Search & Q&A Engine
 
 An AI-powered Enterprise Question Answering system that uses Retrieval-Augmented Generation (RAG) to provide accurate, context-aware answers from pre-indexed enterprise documents.
 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## Project Report Below :
 
 [Samiksha_Gudda_Enterprise_Q&A_Engine_Internship_Report1.pdf](https://github.com/user-attachments/files/29549028/Samiksha_Gudda_Enterprise_Q.A_Engine_Internship_Report1.pdf)
 
